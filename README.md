@@ -12,7 +12,7 @@
   -arduino 2x<br>
   -differential<br>
   
-<b>Part 2:</b> A 3D printed RC car that is operated by a raspberry pi and has self-driving capabilities. <br>
+<br><b>Part 2:</b> A 3D printed RC car that is operated by a raspberry pi and has self-driving capabilities. <br>
   -Timeline: Finished by end of April. 
   <h6>Parts and components:</h6>
   -OpenCV<br>
@@ -21,7 +21,7 @@
   -Raspberry PI (headless mode)<br>
   -DC motor(s)<br>
 
-<b>Part 3:</b> A semi 3D printed RC car on a gokart frame that has much smarter self-driving capabilities than project 2. <br> 
+<br><b>Part 3:</b> A semi 3D printed RC car on a gokart frame that has much smarter self-driving capabilities than project 2. <br> 
   -Timeline: TBA
   
 <h6>PID control of self-driving car</h6>
