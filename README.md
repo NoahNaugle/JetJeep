@@ -5,9 +5,21 @@
 <b>Part 1:</b> The 3D printed OpenRC RC car <br>
   -A simple RC car everybody knows how to do <br>
   -Timeline: Finished by end of March
+  <h6>Parts and components:</h6>
+  -DC motor<br>
+  -2 RF transmitters<br>
+  -Servo motor<br>
+  -arduino 2x<br>
+  -differential<br>
   
 <b>Part 2:</b> A 3D printed RC car that is operated by a raspberry pi and has self-driving capabilities. <br>
   -Timeline: Finished by end of April. 
+  <h6>Parts and components:</h6>
+  -OpenCV<br>
+  -Tensorflow<br>
+  -Keras<br>
+  -Raspberry PI (headless mode)<br>
+  -DC motor(s)<br>
 
 <b>Part 3:</b> A semi 3D printed RC car on a gokart frame that has much smarter self-driving capabilities than project 2. <br> 
   -Timeline: TBA
@@ -39,3 +51,13 @@ https://www.youtube.com/watch?time_continue=4171&v=QbbOxrR0zdA
 
 <h6>Amazon Link for RF Transceiver</h6>
 https://www.amazon.com/Makerfire-Arduino-NRF24L01-Wireless-Transceiver/dp/B00O9O868G/ref=sr_1_1_sspa?crid=2IE8ANSR94W02&keywords=nrf24l01%2B+2.4ghz+wireless+transceiver&qid=1553032218&s=gateway&sprefix=nRF%2Caps%2C394&sr=8-1-spons&psc=1<br>
+
+<h6>A course that may be helpful down the line</h6>
+https://www.udemy.com/applied-deep-learningtm-the-complete-self-driving-car-course/?couponCode=YOUTUBE09
+
+
+
+
+
+
+
