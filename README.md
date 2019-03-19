@@ -34,7 +34,8 @@ https://www.youtube.com/watch?v=eLTLtUVuuy4<br>
 https://towardsdatascience.com/build-your-own-self-driving-toy-car-ad00a6804b53<br>
 
 <h6>Project with a lot of documentation</h6>
-https://github.com/RyanZotti/Self-Driving-Car
+https://github.com/RyanZotti/Self-Driving-Car<br>
+https://www.youtube.com/watch?time_continue=4171&v=QbbOxrR0zdA
 
 <h6>Amazon Link for RF Transceiver</h6>
 https://www.amazon.com/Makerfire-Arduino-NRF24L01-Wireless-Transceiver/dp/B00O9O868G/ref=sr_1_1_sspa?crid=2IE8ANSR94W02&keywords=nrf24l01%2B+2.4ghz+wireless+transceiver&qid=1553032218&s=gateway&sprefix=nRF%2Caps%2C394&sr=8-1-spons&psc=1<br>
