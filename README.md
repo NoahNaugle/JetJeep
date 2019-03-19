@@ -12,17 +12,20 @@
 <b>Part 3:</b> A semi 3D printed RC car on a gokart frame that has much smarter self-driving capabilities than project 2. <br> 
   -Timeline: TBA
   
-  https://www.youtube.com/watch?v=4Y7zG48uHRo <br>
+<h6>PID control of self-driving car</h6>
+https://www.youtube.com/watch?v=4Y7zG48uHRo <br>
   
-  https://mit-racecar.github.io/hardware/ <br>
+<h6>Part 3 inspiration for hardware and theory</h6>
+https://mit-racecar.github.io/hardware/ <br>
   
-  https://medium.com/@subodh.malgonde/building-an-actual-self-driving-car-53f67ca41566 <br>
+<h6>Someone else's take on a self-driving car</h6>
+https://medium.com/@subodh.malgonde/building-an-actual-self-driving-car-53f67ca41566 <br>
   
-  https://www.youtube.com/watch?v=EGqOR56H__U <br>
-  
-  https://www.google.com/search?q=raspberry+pi+self+driving+car&rlz=1C1CHBF_enUS771US771&oq=raspberry+pi+self+driving+car&aqs=chrome..69i57j69i60j69i61j69i60&sourceid=chrome&ie=UTF-8 <br>
-  
-  https://www.youtube.com/watch?v=eLTLtUVuuy4 <br>
+<h6>Example of raspberry pi self-driving car</h6>
+https://www.youtube.com/watch?v=EGqOR56H__U<br>
 
 <h6>Arduino RF Communication </h6>
 https://www.youtube.com/watch?v=IfznH2u3M08<br>
+
+<h6>OpenCV Python Tutorial </h6> 
+https://www.youtube.com/watch?v=eLTLtUVuuy4<br>
