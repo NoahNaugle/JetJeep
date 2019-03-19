@@ -29,3 +29,6 @@ https://www.youtube.com/watch?v=IfznH2u3M08<br>
 
 <h6>OpenCV Python Tutorial </h6> 
 https://www.youtube.com/watch?v=eLTLtUVuuy4<br>
+
+<h6>Amazon link for Arduino RF Transceiver </h6> 
+https://www.amazon.com/Makerfire-Arduino-NRF24L01-Wireless-Transceiver/dp/B00O9O868G/ref=sr_1_1_sspa?crid=2IE8ANSR94W02&keywords=nrf24l01%2B+2.4ghz+wireless+transceiver&qid=1553032218&s=gateway&sprefix=nRF%2Caps%2C394&sr=8-1-spons&psc=1<br>
