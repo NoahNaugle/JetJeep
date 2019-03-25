@@ -6,11 +6,13 @@
   -A simple RC car everybody knows how to do <br>
   -Timeline: Finished by end of March
   <h6>Parts and components:</h6>
-  -DC motor<br>
-  -2 RF transmitters<br>
-  -Servo motor<br>
-  -arduino 2x<br>
-  -differential<br>
+  -DC motor ✔<br>
+  <b><i>Possible new motor</i> <br>
+  https://www.amazon.com/Tamiya-RS540-Sport-Tuned-Motor/dp/B00061HB0K/ref=sr_1_3?crid=1JPU72CR6CTMP&keywords=540+brushed+motor&qid=1553540166&s=gateway&sprefix=540+brus%2Caps%2C172&sr=8-3#customerReviews</b> <br>
+  -2 RF transmitters ✔<br>
+  -Servo motor ✔<br>
+  -arduino 2x ✔<br>
+  -differential ✔<br>
   
 <br><b>Part 2:</b> A 3D printed RC car that is operated by a raspberry pi and has self-driving capabilities. <br>
   -Timeline: Finished by end of April. 
@@ -20,6 +22,7 @@
   -Keras<br>
   -Raspberry PI (headless mode)<br>
   -DC motor(s)<br>
+  <i><b>Possible car shell/chassis:</i><br> https://www.thingiverse.com/thing:3196514</b>
 
 <br><b>Part 3:</b> A semi 3D printed RC car on a gokart frame that has much smarter self-driving capabilities than project 2. <br> 
   -Timeline: TBA
