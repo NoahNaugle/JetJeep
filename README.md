@@ -50,6 +50,11 @@ https://towardsdatascience.com/build-your-own-self-driving-toy-car-ad00a6804b53<
 
 <h6>Project with a lot of documentation</h6>
 https://github.com/RyanZotti/Self-Driving-Car<br>
+
+<h3>Free, In Depth, Self driving car course from Udacity</h3>
+https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373<br>
+
+
 https://www.youtube.com/watch?time_continue=4171&v=QbbOxrR0zdA
 
 <h6>Amazon Link for RF Transceiver</h6>
