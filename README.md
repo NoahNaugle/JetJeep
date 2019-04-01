@@ -18,11 +18,11 @@
   -OpenCV <i>(learn)</i> <br> 
   -Tensorflow <i>(learn)</i><br> 
   -Keras <i>(learn)</i><br> 
-  -Raspberry PI (headless mode)<br> ✔<br>
-  -DC motor(s)<br> ✔<br>
+  -Raspberry PI (headless mode) ✔<br>
+  -DC motor(s)✔<br>
   <i><b>Car shell/chassis:</i><br>https://www.3dsets.com/</b>
   
-  <h3>Free, In Depth, Self driving car course from Udacity</h3> <br>
+  <h3>Free, In Depth, Self driving car course from Udacity</h3> 
   <i>(Try to finish by end of April)</i> <br>
 https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373<br>
 
