@@ -15,9 +15,9 @@
 <br><b>Part 2:</b> A 3D printed RC car that is operated by a raspberry pi and has self-driving capabilities. <br>
   -Timeline: Finished by end of April. 
   <h6>Parts and components:</h6>
-  -OpenCV<br> <i>(learn)</i>
-  -Tensorflow<br> <i>(learn)</i>
-  -Keras<br> <i>(learn)</i>
+  -OpenCV <i>(learn)</i> <br> 
+  -Tensorflow <i>(learn)</i><br> 
+  -Keras <i>(learn)</i><br> 
   -Raspberry PI (headless mode)<br> ✔<br>
   -DC motor(s)<br> ✔<br>
   <i><b>Car shell/chassis:</i><br>https://www.3dsets.com/</b>
