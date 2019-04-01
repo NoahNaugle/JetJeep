@@ -7,22 +7,24 @@
   -Timeline: Finished by end of March
   <h6>Parts and components:</h6>
   -DC motor ✔<br>
-  <b><i>Possible new motor</i> <br>
-  https://www.amazon.com/Tamiya-RS540-Sport-Tuned-Motor/dp/B00061HB0K/ref=sr_1_3?crid=1JPU72CR6CTMP&keywords=540+brushed+motor&qid=1553540166&s=gateway&sprefix=540+brus%2Caps%2C172&sr=8-3#customerReviews</b> <br>
-  -2 RF transmitters ✔<br>
   -Servo motor ✔<br>
-  -arduino 2x ✔<br>
   -differential ✔<br>
+  -reciever ✔<br>
+  -controller ✔<br>
   
 <br><b>Part 2:</b> A 3D printed RC car that is operated by a raspberry pi and has self-driving capabilities. <br>
   -Timeline: Finished by end of April. 
   <h6>Parts and components:</h6>
-  -OpenCV<br>
-  -Tensorflow<br>
-  -Keras<br>
-  -Raspberry PI (headless mode)<br>
-  -DC motor(s)<br>
-  <i><b>Possible car shell/chassis:</i><br> https://www.thingiverse.com/thing:3196514</b>
+  -OpenCV<br> <i>(learn)</i>
+  -Tensorflow<br> <i>(learn)</i>
+  -Keras<br> <i>(learn)</i>
+  -Raspberry PI (headless mode)<br> ✔<br>
+  -DC motor(s)<br> ✔<br>
+  <i><b>Car shell/chassis:</i><br>https://www.3dsets.com/</b>
+  
+  <h3>Free, In Depth, Self driving car course from Udacity</h3> <br>
+  <i>(Try to finish by end of April)</i> <br>
+https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373<br>
 
 <br><b>Part 3:</b> A semi 3D printed RC car on a gokart frame that has much smarter self-driving capabilities than project 2. <br> 
   -Timeline: TBA
@@ -50,9 +52,6 @@ https://towardsdatascience.com/build-your-own-self-driving-toy-car-ad00a6804b53<
 
 <h6>Project with a lot of documentation</h6>
 https://github.com/RyanZotti/Self-Driving-Car<br>
-
-<h3>Free, In Depth, Self driving car course from Udacity</h3>
-https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373<br>
 
 
 https://www.youtube.com/watch?time_continue=4171&v=QbbOxrR0zdA
