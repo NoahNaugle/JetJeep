@@ -20,7 +20,9 @@
   -Keras <i>(learn)</i><br> 
   -Raspberry PI (headless mode) ✔<br>
   -DC motor(s)✔<br>
-  <i><b>Car shell/chassis:</i><br>https://www.3dsets.com/</b>
+  <i><b>Car shell/chassis:</i><br>https://www.3dsets.com/</b><br>
+  <b>Parts List: https://bit.ly/2Z7xTTv </b><br>
+  <b>Jeep Build Guide: https://bit.ly/2IjeWbg</b> 
   
   <h3>Free, In Depth, Self driving car course from Udacity</h3> 
   <i>(Try to finish by end of April)</i> <br>
