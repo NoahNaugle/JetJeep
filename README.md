@@ -64,9 +64,16 @@ https://www.amazon.com/Makerfire-Arduino-NRF24L01-Wireless-Transceiver/dp/B00O9O
 <h6>A course that may be helpful down the line</h6>
 https://www.udemy.com/applied-deep-learningtm-the-complete-self-driving-car-course/?couponCode=YOUTUBE09
 
-
-
-
-
-
-
+<h4> Milesstones for Upcoming Fall Semester </H4>
+<ul>
+  <li> Finish Printing Jeep(August) </li>
+  <li> Install RC electronics and test (August) </li>
+  <li> Install RC electronics and test (August) </li>
+  <li> Verify RC Version Works (Sept.) </li>
+  <li> Learn Open CV for video output and camera capture (Sept.) </li>
+  <li> Begin Developing Self Driving AI Using Open CV and Neural Networks via Python, Tensorflow, and Keras (Sept.) </li>
+  <li> Refine AI model and begin gathering training data (Oct.) </li>
+  <li> Troubleshoot any existing Problems (Oct.) </li>
+  <li> Create Test track (Nov.) </li>
+  <li> Test Jeep and update final results to github part 1 section (Nov.) </li>
+</ul>
