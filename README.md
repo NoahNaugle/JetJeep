@@ -21,7 +21,6 @@
   -Raspberry PI (headless mode) ✔<br>
   -DC motor(s)✔<br>
   <i><b>Car shell/chassis:</i><br>https://www.3dsets.com/</b><br>
-  <b>Parts List: https://bit.ly/2Z7xTTv </b><br>
   <b>Jeep Build Guide: https://bit.ly/2IjeWbg</b> 
   
   <h3>Free, In Depth, Self driving car course from Udacity</h3> 
@@ -58,8 +57,7 @@ https://github.com/RyanZotti/Self-Driving-Car<br>
 
 https://www.youtube.com/watch?time_continue=4171&v=QbbOxrR0zdA
 
-<h6>Amazon Link for RF Transceiver</h6>
-https://www.amazon.com/Makerfire-Arduino-NRF24L01-Wireless-Transceiver/dp/B00O9O868G/ref=sr_1_1_sspa?crid=2IE8ANSR94W02&keywords=nrf24l01%2B+2.4ghz+wireless+transceiver&qid=1553032218&s=gateway&sprefix=nRF%2Caps%2C394&sr=8-1-spons&psc=1<br>
+
 
 <h6>A course that may be helpful down the line</h6>
 https://www.udemy.com/applied-deep-learningtm-the-complete-self-driving-car-course/?couponCode=YOUTUBE09
