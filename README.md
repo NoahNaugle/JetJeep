@@ -64,9 +64,8 @@ https://www.udemy.com/applied-deep-learningtm-the-complete-self-driving-car-cour
 
 <h4> Milesstones for Upcoming Fall Semester </H4>
 <ul>
-  <li> Finish Printing Jeep(August) </li>
-  <li> Install RC electronics and test (August) </li>
-  <li> Install RC electronics and test (August) </li>
+  <li> Finish Printing Jeep(August) ✔ </li>
+  <li> Install RC electronics and test (August) ✔ </li>
   <li> Verify RC Version Works (Sept.) </li>
   <li> Learn Open CV for video output and camera capture (Sept.) </li>
   <li> Begin Developing Self Driving AI Using Open CV and Neural Networks via Python, Tensorflow, and Keras (Sept.) </li>
