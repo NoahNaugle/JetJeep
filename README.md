@@ -62,6 +62,9 @@ https://www.youtube.com/watch?time_continue=4171&v=QbbOxrR0zdA
 <h6>A course that may be helpful down the line</h6>
 https://www.udemy.com/applied-deep-learningtm-the-complete-self-driving-car-course/?couponCode=YOUTUBE09
 
+Professor recommended this course/website: 
+https://www.pyimagesearch.com/raspberry-pi-for-computer-vision/
+
 <h4> Milesstones for Upcoming Fall Semester </H4>
 <ul>
   <li> Finish Printing Jeep(August) ✔ </li>
