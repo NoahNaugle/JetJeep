@@ -72,7 +72,7 @@ https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/
 <ul>
   <li> Finish Printing Jeep(August) ✔ </li>
   <li> Install RC electronics and test (August) ✔ </li>
-  <li> Verify RC Version Works (Sept.) </li>
+  <li> Verify RC Version Works (Sept.) ✔ </li>
   <li> Learn Open CV for video output and camera capture (Sept.) </li>
   <li> Begin Developing Self Driving AI Using Open CV and Neural Networks via Python, Tensorflow, and Keras (Sept.) </li>
   <li> Refine AI model and begin gathering training data (Oct.) </li>
