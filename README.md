@@ -43,15 +43,3 @@ https://www.pyimagesearch.com/raspberry-pi-for-computer-vision/
 <h6>Also this one:</h6>
 https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/
 
-<h4> Milesstones for Upcoming Fall Semester </H4>
-<ul>
-  <li> Finish Printing Jeep(August) ✔ </li>
-  <li> Install RC electronics and test (August) ✔ </li>
-  <li> Verify RC Version Works (Sept.) ✔ </li>
-  <li> Learn Open CV for video output and camera capture (Sept.) </li>
-  <li> Begin Developing Self Driving AI Using Open CV and Neural Networks via Python, Tensorflow, and Keras (Sept.) </li>
-  <li> Refine AI model and begin gathering training data (Oct.) </li>
-  <li> Troubleshoot any existing Problems (Oct.) </li>
-  <li> Create Test track (Nov.) </li>
-  <li> Test Jeep and update final results to github part 1 section (Nov.) </li>
-</ul>
