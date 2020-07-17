@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.1)
+project(opencv_test)
+add_executable(main src/main.cpp)
+#set(OpenCV_DIR "/usr/local/lib/cmake/opencv4")
+find_package(OpenCV REQUIRED)
+target_link_libraries(main PUBLIC ${OpenCV_LIBS})
